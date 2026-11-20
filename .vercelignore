@@ -1,0 +1,12 @@
+# Upload only the public runtime sources and the assets served by web/.
+/*
+!/.vercelignore
+!/vercel.json
+!/requirements.txt
+!api
+!app
+!web
+.env*
+__pycache__
+*.pyc
+/web/data/population_snapshot.json

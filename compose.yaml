@@ -1,0 +1,8 @@
+services:
+  jeju-agent:
+    build: .
+    ports:
+      - "127.0.0.1:${JEJU_PORT:-8765}:8765"
+    env_file:
+      - path: .env
+        required: false

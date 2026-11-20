@@ -1,0 +1,6 @@
+표선농협하나로마트 주변 1km 사각형 · 표선동서로 / 126.83199219, 33.32534700. 점포 좌표는 입구 또는 건물 중심점의 측량값이 아닙니다.
+2D 지형 음영: Copernicus GLO-30 DEM N33 E126 (© DLR e.V. 및 Airbus Defence and Space GmbH, 유럽연합·ESA Copernicus 제공). 2D 도로: © OpenStreetMap contributors, 앱 기준 2026-07-24. 점포가 있는 장소나 보행 경로를 보증하지 않습니다.
+건물 윤곽: Overture Maps Foundation buildings release 2026-11-18.0, 원출처는 이 범위에서 OpenStreetMap. © OpenStreetMap contributors. https://overturemaps.org/attribution/ https://www.openstreetmap.org/copyright
+기존 상자: OSM OpenFreeMap/OpenMapTiles 2026-11-15 벡터 타일을 방향 있는 직사각형으로 가공한 앱 데이터. 도로: OSM, 앱 기준 2026-07-24. 표시된 도로는 보행 가능 여부를 보증하지 않습니다.
+가공한 지도 자료(studio-footprints.json)의 라이선스: Open Database License (ODbL) 1.0, https://opendatacommons.org/licenses/odbl/1-0/ . 공개 윤곽은 사각 경계로 잘랐습니다. 건물 높이 미확인. 도형 개수를 실제 현존 건물 수로 간주하지 마세요.
+국내 건물 지도: 행정안전부 도로명주소 건물 기반, 한국에스리 ‘전국 건물 도형 v2’ 온라인 시각화. https://portal.esrikr.com/arcgis/rest/services/MOIS_KR_Buildings_v2/FeatureServer/0 . 이 레이어는 앱에서 온라인으로 조회하며 오프라인용 자료에 포함하지 않습니다. ODbL 라이선스 문단은 OSM 가공 자료에만 해당합니다.

@@ -1,0 +1,13 @@
+data/raw/
+.env
+.env.*
+!.env.example
+__pycache__/
+.DS_Store
+.gjc/
+logs/
+dist/
+/submission/
+# Generated QA captures and reports; curated guide images belong in docs/guide-img/.
+/shots/
+.vercel
