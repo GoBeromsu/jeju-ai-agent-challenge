@@ -11,3 +11,8 @@ dist/
 # Generated QA captures and reports; curated guide images belong in docs/guide-img/.
 /shots/
 .vercel
+# Local Python environments, test caches and packaging output.
+.venv/
+.pytest_cache/
+.coverage
+*.egg-info/
